@@ -8,3 +8,4 @@ Record the C++ learning process.
 4|128|最长连续序列|困难|[leetcode](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[AC](https://github.com/hysong0101/LeetcodeCplusplus/blob/master/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)|2020-06-06
 5|126|单词接龙 II|困难|[leetcode](https://leetcode-cn.com/problems/word-ladder-ii/)|[AC](https://github.com/hysong0101/LeetcodeCplusplus/blob/master/126.%20%E5%8D%95%E8%AF%8D%E6%8E%A5%E9%BE%99%20II.md)|2020-06-07
 6|125|验证回文串|简单|[leetcode](https://leetcode-cn.com/problems/valid-palindrome/)|[AC](https://github.com/hysong0101/LeetcodeCplusplus/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)|2020-06-07
+7|150|逆波兰表达式求值|中等|[leetcode](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|[AC](https://github.com/hysong0101/LeetcodeCplusplus/blob/master/150.%20%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md)|2020-06-08
