@@ -13,3 +13,4 @@ Record the C++ learning process.
 9|9|回文数|简单|[leetcode](https://leetcode-cn.com/problems/palindrome-number/submissions/)|[AC](https://github.com/youtoldme/LeetcodeCplusplus/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)|2020-06-10
 10|740|删除与获得点数|中等|[leetcode](https://leetcode-cn.com/problems/delete-and-earn/)|[AC](https://github.com/youtoldme/LeetcodeCplusplus/blob/master/740.%20%E5%88%A0%E9%99%A4%E4%B8%8E%E8%8E%B7%E5%BE%97%E7%82%B9%E6%95%B0.md)|2020-06-10
 11|面试题42|连续子数组的最大和|简单|[leetcode](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[AC](https://github.com/youtoldme/LeetcodeCplusplus/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%9842.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)|2020-06-10
+12|1025|除数博弈|简单|[leetcode](https://leetcode-cn.com/problems/divisor-game/)|[AC](https://github.com/youtoldme/LeetcodeCplusplus/blob/master/1025.%20%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88.md)|2020-06-10
