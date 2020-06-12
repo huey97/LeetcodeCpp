@@ -17,4 +17,4 @@ Record the C++ learning process.
 13|面试题 08.01|三步问题|简单|[Leetcode](https://leetcode-cn.com/problems/three-steps-problem-lcci/)|[Answer](https://github.com/youtoldme/LeetcodeCplusplus/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2008.01.%20%E4%B8%89%E6%AD%A5%E9%97%AE%E9%A2%98.md)|2020-06-10
 14|面试题 17.16|按摩师|简单|[Leetcode](https://leetcode-cn.com/problems/the-masseuse-lcci/)|[Answer](https://github.com/youtoldme/LeetcodeCplusplus/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.%20%E6%8C%89%E6%91%A9%E5%B8%88.md)|2020-06-10
 15|1139|最大的以 1 为边界的正方形|中等|[Leetcode](https://leetcode-cn.com/problems/largest-1-bordered-square/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1139.%20%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BB%A5%201%20%E4%B8%BA%E8%BE%B9%E7%95%8C%E7%9A%84%E6%AD%A3%E6%96%B9%E5%BD%A2.md)|2020-06-11
-16|877|石子游戏|中等|[Leetcode]()|[WA](https://github.com/youtoldme/LeetcodeCpp/blob/master/877.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F.md)|2020-06-12
+16|877|石子游戏|中等|[Leetcode](https://leetcode-cn.com/problems/stone-game/)|[WA](https://github.com/youtoldme/LeetcodeCpp/blob/master/877.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F.md)|2020-06-12
