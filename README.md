@@ -20,3 +20,5 @@ Record the C++ learning process.
 16|877|石子游戏|中等|[Leetcode](https://leetcode-cn.com/problems/stone-game/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/877.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F.md)|2020-06-12
 17|1140|石子游戏II|中等|[leetcode](https://leetcode-cn.com/problems/stone-game-ii/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1140.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F%20II.md)|2020-06-13
 18|1300|转变数组后最接近目标值的数组和|中等|[leetcode](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1300.%20%E8%BD%AC%E5%8F%98%E6%95%B0%E7%BB%84%E5%90%8E%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E6%95%B0%E7%BB%84%E5%92%8C.md)|2020-06-14
+19|||||
+20|1402|做菜顺序|困难|[Leetcode](https://leetcode-cn.com/problems/reducing-dishes/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1402.%20%E5%81%9A%E8%8F%9C%E9%A1%BA%E5%BA%8F.md)|2020-06-16
