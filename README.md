@@ -23,3 +23,4 @@ Record the C++ learning process.
 19|221|最大正方形|中等|[Leetcode](https://leetcode-cn.com/problems/maximal-square/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/221.%20%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.md)|2020-06-15
 20|1402|做菜顺序|困难|[Leetcode](https://leetcode-cn.com/problems/reducing-dishes/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1402.%20%E5%81%9A%E8%8F%9C%E9%A1%BA%E5%BA%8F.md)|2020-06-16
 21|1014|最佳观光组合|中等|[Leetcode](https://leetcode-cn.com/problems/best-sightseeing-pair/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1014.%20%E6%9C%80%E4%BD%B3%E8%A7%82%E5%85%89%E7%BB%84%E5%90%88.md)|2020-06-17
+22|120|三角形最小路径和|中等|[Leetcode](https://leetcode-cn.com/problems/triangle/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/120.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)|2020-06-19
