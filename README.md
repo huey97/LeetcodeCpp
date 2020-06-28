@@ -24,3 +24,4 @@ Record the C++ learning process.
 20|1402|做菜顺序|困难|[Leetcode](https://leetcode-cn.com/problems/reducing-dishes/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1402.%20%E5%81%9A%E8%8F%9C%E9%A1%BA%E5%BA%8F.md)|2020-06-16
 21|1014|最佳观光组合|中等|[Leetcode](https://leetcode-cn.com/problems/best-sightseeing-pair/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/1014.%20%E6%9C%80%E4%BD%B3%E8%A7%82%E5%85%89%E7%BB%84%E5%90%88.md)|2020-06-17
 22|120|三角形最小路径和|中等|[Leetcode](https://leetcode-cn.com/problems/triangle/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/120.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)|2020-06-19
+23|209|长度最小的子数组|中等|[leetcode](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/209.%20%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)|2020-06-28
