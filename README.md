@@ -31,3 +31,4 @@ Record the C++ learning process.
 27|32|最长有效括号|困难|[Leetcode](https://leetcode-cn.com/problems/longest-valid-parentheses/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)|2020-07-04
 28|63|不同路径 II|中等|[Leetcode](https://leetcode-cn.com/problems/unique-paths-ii/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/63.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.md)|2020-07-06
 29|62|不同路径|中等|[Leetcode](https://leetcode-cn.com/problems/unique-paths/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)|2020-07-06
+30|64|最小路径和|中等|[Leetcode](https://leetcode-cn.com/problems/minimum-path-sum/)|[Answer](https://github.com/youtoldme/LeetcodeCpp/blob/master/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)|2020-07-06
